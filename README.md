@@ -8,6 +8,7 @@
 **Email:** irem.aytkn@gmail.com  
 
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.
+
 My homeworks' formats are ".ipynb".
 I am sure that my codes work.
 
