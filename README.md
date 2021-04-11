@@ -1,4 +1,4 @@
-# GAIH Student Repo Example
+# GLOBAL AI HUB - STUDENT REPO
 ![](img/newlogo.png)
 
 **Course Date:** 05.04.2021 - 09.04.2021 
