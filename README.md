@@ -1,7 +1,7 @@
 # GAIH Student Repo Example
 ![](img/newlogo.png)
 
-**Course Date:** 05.04.2020  
+**Course Date:** 05.04.2021 - 09.04.2021 
 **Name:** İrem  
 **Surname:** Aytekin  
 **Email:** irem.aytkn@gmail.com  
@@ -13,9 +13,8 @@ Introduction to Python Course - Global AI Hub
 
 ## Requirements
 ```
-Some python libraries
-Some python libraries
-Some python libraries
+Basics of Python
+Some python libraries: Numpy, Pandas
 ```
 ---
 
